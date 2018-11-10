@@ -1,6 +1,6 @@
 {
   "name": "ea-csv",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "csv, stream, command, json, parse, parser, convert",
   "main": "index.js",
   "bin": {

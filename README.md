@@ -1,5 +1,5 @@
 # ea-csv
-
+ https://github.com/hagb4rd/ea-csv
 ### GLOBAL INSTALL:
 
 `npm i -g ea-csv`
@@ -32,13 +32,18 @@ street,city,zip,state,beds,baths,sq__ft,type,sale_date,price,latitude,longitude
 
 ## USAGE AS MODULE 
 
-`npm i --save ea-csv
+Install
+```
+npm install --save ea-csv event-stream
+```
 
+Sample
 ```js
 
 var csv=require('es-csv');
 var es=require('event-stream');
 var fs=require('fs');
+var util=require('util');
 
 var stream=()=>fs.createReadStream('./sample.csv',{encoding:'utf-8'});
 
