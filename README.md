@@ -1,5 +1,6 @@
 # ea-csv
- https://github.com/hagb4rd/ea-csv
+[f-u-c-k-u-p](https://github.com/f-u-c-k-u-p) ->
+https://github.com/hagb4rd/ea-csv
 ### GLOBAL INSTALL:
 
 `npm i -g ea-csv`
